@@ -1,0 +1,12 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<title>%title%</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	%scripts%
+</head>
+<body>
+    <p id="gif"><img src="nwsc.gif"></p>
+	<p id="login"><form method="POST" action="auth/auth.php" ></form></p>
+</body>
+</html>
